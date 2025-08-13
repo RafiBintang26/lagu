@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Beyyyyaaa!!!</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css"
+		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+
+<body>
+
+	<!-- sidebar -->
+	<input type="checkbox" id="check">
+	<div class="sidebar">
+		<ul>
+			<li><a href="#about">About</a></li>
+			<li><a href="#skills">Love <3</a></li>
+			<li><a href="#portfolio">Pict</a></li>
+			<li><a href="#contact"></a></li>
+		</ul>
+	</div>
+
+	<!-- bagian header -->
+	<header>
+		<div class="container">
+			<h1><a href="">Beyyaa!!</a></h1>
+			<ul>
+				<li><a href="#about">Aboutt</a></li>
+				<li><a href="#skills">Love <3 </a></li>
+				<li><a href="#portfolio">Pict</a></li>
+				<li><a href="#contact"></a></li>
+			</ul>
+
+			<!-- menu mobile -->
+			<label for="check" class="mobile-menu"><i class="fas fa-bars fa-2x"></i></label>
+		</div>
+	</header>
+
+	<!-- bagian banner -->
+	<section class="banner">
+		<div class="container">
+			<div class="banner-left">
+				<img src="img/iconic.jpeg">
+				<h2>Hai...<br>
+					Aku adalah rapii yang ingin mengirimkan sesuatu untuk andaaa wkwk gatau pengen buat aja karena hari ini hari special yhahaah aku kan di sebelah kamuu eaaakkk<span
+						class="efek-ngetik"></span></h2>
+				<p>semoga aja kamu bacanya seneng, penuh ekspresi dan tau apa tujuannya aku buat ini  </p>
+			</div>
+		</div>
+	</section>
+
+	<!-- bagian about -->
+	<section id="about">
+		<div class="container">
+			<h3>About u</h3>
+			<p>Haiii beeyyy kita baru kenal tetapi lumayan seru juga apalagi kita sering chattingan bareng wkwk walaupun cmn
+				chattingan tapi seru aja gtu, semuanya di bahas</p>
+			<p>kalooo di bilang tentang kamu??, tentang dia banyak sekali, dari tukang bully tukang bacottt tukanggg judesin
+				aku,
+				aku si pngn lebih jauh dari kata berteman sama kamu, mau ga lebih dari just a friend anjayyy ??</p>
+		</div>
+	</section>
+
+	<!-- bagian skills -->
+	<section id="skills">
+		<div class="container">
+			<h3>love yang kamu punyaaa</h3>
+			<h4>Yaaappiiinggg!!!!</h4>
+			<div class="bar">
+				<span class="nilai html">100%</span>
+			</div>
+
+			<h4>Perhatian !!!!</h4>
+			<div class="bar">
+				<span class="nilai css">90%</span>
+			</div>
+
+			<h4>Gamau di bales singkat </h4>
+			<div class="bar">
+				<span class="nilai js">80%</span>
+				<h4>Cantikkk!!!</h4>
+				<div class="bar">
+					<span class="nilai php">95%</span>
+				</div>
+
+				<h4>Makaannn!!!</h4>
+				<div class="bar">
+					<span class="nilai ps">85%</span>
+				</div>
+			</div>
+	</section>
+
+
+	<!-- bagian portfolio -->
+	<section id="portfolio">
+		<div class="container">
+			<h3>Picture (DIKIT KATANYA GA PERNAH FOTO, PDAHAL MAH POTO MULU
+			)</h3>
+			<div class="col-4">
+				<a href="">
+					<img src="img/lucu.jpeg">
+					<span>Lucuu bgtt njer fotonya</span>
+				</a>
+			</div>
+
+			<div class="col-4">
+				<a href="">
+					<img src="img/fina.jpg">
+					<span>foto yang paling aku sukaaa</span>
+				</a>
+			</div>
+
+			<div class="col-4">
+				<a href="">
+					<img src="img/eskrim.jpeg">
+					<span>mam eskim dlluuu geyss</span>
+				</a>
+			</div>
+
+			<div class="col-4">
+				<a href="">
+					<img src="img/WhatsApp Image 2024-01-15 at 22.16.29.jpeg">
+					<span>foto yang paling gw suka si soalnya makek kacamat xixixi bagus jg </span>
+				</a>
+			</div>
+	</section>
+	<!-- bagian footer -->
+	<footer>
+		<div class="container">
+			<small>
+				<3 Rafi Bintang Adrian fauzan</small>
+		</div>
+	</footer>
+
+	<script src="js/script.js"></script>
+
+	<audio autoplay>
+  <source src="kancut.mp3" type="audio/mp3 "/>
+</audio>
+
+</body>
+
+</html>
